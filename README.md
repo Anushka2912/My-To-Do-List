@@ -61,6 +61,12 @@ To get started with the My To-Do List App, follow these steps:
 - `style.css` – The CSS file for styling the app.
 - `script.js` – The JavaScript file for functionality.
 
+## Screenshots
+![main](https://github.com/user-attachments/assets/9e8192b9-fce2-45a5-b2e3-30745cabfcf7)
+![List](https://github.com/user-attachments/assets/d9e567a3-1255-4341-ad2b-af8df9c6072c)
+![Mid Responsive](https://github.com/user-attachments/assets/3f765f1d-e662-4a3a-b43b-e371ab6a9474)
+![Responsive](https://github.com/user-attachments/assets/9af33f90-8fc9-4f93-874a-63c81419c4b7)
+
 ## Contributing
 
 Feel free to fork the repository and make improvements. If you have any suggestions or find bugs, please open an issue or submit a pull request.
